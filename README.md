@@ -150,7 +150,7 @@ wifi-scanner-cpp/
 ├── LICENSE                    # Licencia MIT
 ├── README.md                  # Este archivo
 ├── .gitignore                 # Archivos ignorados por Git
-└── wifi-scanner-cpp.exe       # Ejecutable (opcional)
+└── wifi-scanner-cpp.exe       # Ejecutable
 ```
 
 ---
