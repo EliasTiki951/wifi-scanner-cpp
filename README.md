@@ -28,17 +28,16 @@ El programa utiliza los comandos nativos de cada sistema operativo:
 
 ## ✨ Características principales
 
-                                                                                       |
-
+|                                |
 | ------------------------------ | ------------------------------------------------------------------------------------- |
-| 🔑 **Ver redes guardadas** | Muestra todas las redes WiFi conectadas anteriormente con sus respectivas contraseñas |
-| 📡 **Escanear redes cercanas** | Detecta redes WiFi disponibles en el entorno y muestra su intensidad de señal |
-| 💾 **Exportar a archivo** | Guarda los resultados en un archivo `.txt` con nombre personalizable |
-| 🌍 **Soporte multilingüe** | Compatible con sistemas en español e inglés |
-| 🖥️ **Interfaz intuitiva** | Menú interactivo fácil de usar |
-| ⚡ **Ligero y rápido** | No requiere instalación, solo ejecutar el binario |
-| 🐧 **Multi-OS** | Compatible con Windows y Linux |
-| 🔄 **Auto-elevación** | En Windows se solicita automáticamente permisos de Administrador |
+| 🔑 **Ver redes guardadas**     | Muestra todas las redes WiFi conectadas anteriormente con sus respectivas contraseñas |
+| 📡 **Escanear redes cercanas** | Detecta redes WiFi disponibles en el entorno y muestra su intensidad de señal         |
+| 💾 **Exportar a archivo**      | Guarda los resultados en un archivo `.txt` con nombre personalizable                  |
+| 🌍 **Soporte multilingüe**     | Compatible con sistemas en español e inglés                                           |
+| 🖥️ **Interfaz intuitiva**      | Menú interactivo fácil de usar                                                        |
+| ⚡ **Ligero y rápido**         | No requiere instalación, solo ejecutar el binario                                     |
+| 🐧 **Multi-OS**                | Compatible con Windows y Linux                                                        |
+| 🔄 **Auto-elevación**          | En Windows se solicita automáticamente permisos de Administrador                      |
 
 ---
 
