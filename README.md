@@ -95,6 +95,7 @@ make
 
 # Compilar en Windows (con g++ o MinGW)
 g++ -o wifi-scanner-cpp.exe main.cpp
+```
 
 ---
 
@@ -104,7 +105,6 @@ g++ -o wifi-scanner-cpp.exe main.cpp
 2. Elegir una opción del menú:
 
 ```
-
 ==================================
 Wifi Scanner C++ v3.0 (Multi-OS)
 ==================================
@@ -116,7 +116,6 @@ Wifi Scanner C++ v3.0 (Multi-OS)
 3. Salir
 
 Opción (1-3):
-
 ```
 
 - **Opción 1:** lista todas las redes guardadas con sus contraseñas.
@@ -126,7 +125,6 @@ Opción (1-3):
 ### Ejemplo de salida
 
 ```
-
 === REDES WIFI GUARDADAS ===
 
 Total: 3
@@ -155,8 +153,7 @@ Abiertas: 1
 Nombre (default: wifi_passwords.txt): mis_redes.txt
 
 ✓ Guardado en: mis_redes.txt
-
-````
+```
 
 ---
 
@@ -169,7 +166,7 @@ make          # Compila el programa
 make clean    # Elimina archivos objeto y ejecutable
 make run      # Compila y ejecuta
 make help     # Muestra todas las opciones disponibles
-````
+```
 
 **Usando g++ directamente**
 
