@@ -1,0 +1,61 @@
+# Archivos compilados
+*.exe
+*.o
+*.obj
+*.out
+*.dll
+*.dylib
+*.so
+
+# Archivos generados por el programa
+*.txt
+!README.md
+!LICENSE
+!Makefile
+
+# Archivos de depuración
+debug_output.txt
+*.log
+*.tmp
+*.temp
+
+# Archivos de Windows
+Thumbs.db
+desktop.ini
+*.cab
+*.msi
+*.msm
+
+# Archivos de IDE y editores
+.vscode/
+.idea/
+*.user
+*.suo
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.dev
+*.layout
+*.depend
+*.cbp
+*.workspace
+*.kdev4
+*.code-workspace
+*.swp
+*.swo
+*~
+
+# Directorios de compilación
+build/
+bin/
+Debug/
+Release/
+obj/
+*.dSYM/
+__pycache__/
+
+# Archivos de backup
+*.bak
+*.backup
+*.old
+*.orig
