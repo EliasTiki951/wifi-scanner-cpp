@@ -28,7 +28,7 @@ El programa utiliza los comandos nativos de cada sistema operativo:
 
 ## ✨ Características principales
 
-|                                |
+|                                |                                                                                       |
 | ------------------------------ | ------------------------------------------------------------------------------------- |
 | 🔑 **Ver redes guardadas**     | Muestra todas las redes WiFi conectadas anteriormente con sus respectivas contraseñas |
 | 📡 **Escanear redes cercanas** | Detecta redes WiFi disponibles en el entorno y muestra su intensidad de señal         |
